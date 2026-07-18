@@ -1,16 +1,37 @@
-## Hi there 👋
+```console
+ed@github:~$ whoami
 
-<!--
-**realedwardgough/realedwardgough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name:        Edward Gough
+Location:    United Kingdom
+Occupation:  Software Developer
+Author:      Suspense Fiction
+Stack:       Laravel • Vue • PHP
+Currently:   Building things that solve real problems
 
-Here are some ideas to get you started:
+ed@github:~$ pwd
+/home/ed/projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ed@github:~$ ls
+
+📁 emily-timeline
+📁 novella
+📁 forty-seven-software
+📁 experiments
+
+ed@github:~$ cat about.txt
+
+Mission
+-------
+Build software that lasts and stories that people remember.
+
+Current Quest
+-------------
+• Emily Timeline
+  A private digital timeline preserving memories for my daughter.
+
+• Untitled Suspense Novella
+  My latest fiction project.
+
+• The Next Idea
+  There's always another side project...
+```
